@@ -1,0 +1,1 @@
+print('Hai semuannya ini adalah file latihan saya')
